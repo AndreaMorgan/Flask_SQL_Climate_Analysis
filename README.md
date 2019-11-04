@@ -6,7 +6,6 @@ The analysis contains precipitation and station data over specific periods of ti
 
 The Flask Climate app runs routes defined on /index where the user can input specific dates and have weather information returned.
 
--------------------
 
 ## Skills Performed
 
@@ -25,7 +24,6 @@ This project shows the following skills: <br><br>
 *Use variable paths to execute database queries on behalf of the client. <br>
 *Return JSONified query results from API endpoints.<br>  
 
------------------
 
 ## Deployment
 
