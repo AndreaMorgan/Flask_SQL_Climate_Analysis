@@ -17,7 +17,7 @@ This project shows the following skills: <br><br>
 *Create, read, update, and delete data from a SQL database using SQLAlchemy's ORM.<br>
 *Reflect existing databases. <br>
 *Use the SQLAlchemy ORM to create classes that model tables. <br>
-*Use the ORM define relationships and foreign key constraints.
+*Use the ORM define relationships and foreign key constraints.<br>
 *Use joins to query related data.
 *Use Flask to create and run a server.
 *Define endpoints using Flask's @app.route decorator.
