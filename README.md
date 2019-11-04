@@ -19,7 +19,7 @@ This project shows the following skills: <br><br>
 *Use the SQLAlchemy ORM to create classes that model tables. <br>
 *Use the ORM define relationships and foreign key constraints.<br>
 *Use joins to query related data. <br>
-*Use Flask to create and run a server.
+*Use Flask to create and run a server. <br>
 *Define endpoints using Flask's @app.route decorator.
 *Extract query variable path values from GET requests.
 *Use variable paths to execute database queries on behalf of the client.
