@@ -15,7 +15,7 @@ This project shows the following skills: <br><br>
 *Perform basic SQL queries using engine.execute(). <br>
 *Create Python classes and objects.<br>
 *Create, read, update, and delete data from a SQL database using SQLAlchemy's ORM.<br>
-*Reflect existing databases.
+*Reflect existing databases. <br>
 *Use the SQLAlchemy ORM to create classes that model tables.
 *Use the ORM define relationships and foreign key constraints.
 *Use joins to query related data.
