@@ -26,3 +26,13 @@ This project shows the following skills:
 *Return JSONified query results from API endpoints.
 
 -----------------
+
+## Deployment
+
+1. Clone this repository to your local machine.
+2. View climate analysis on Jupyter Notebook.
+3. Run ClimateApp.py to activate LocalHost.
+4. Open LocalHost.
+5. Follow instructions to retrieve desired information.
+
+Note: All analysis is based on files in "Resources" folder. 
