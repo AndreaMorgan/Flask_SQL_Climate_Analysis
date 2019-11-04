@@ -23,7 +23,7 @@ This project shows the following skills: <br><br>
 *Define endpoints using Flask's @app.route decorator. <br>
 *Extract query variable path values from GET requests. <br>
 *Use variable paths to execute database queries on behalf of the client. <br>
-*Return JSONified query results from API endpoints.
+*Return JSONified query results from API endpoints.<br>  
 
 -----------------
 
