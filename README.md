@@ -11,7 +11,7 @@ The Flask Climate app runs routes defined on /index where the user can input spe
 ## Skills Performed
 
 This project shows the following skills:
-*Connect to a SQL database using SQLAlchemy.
+*Connect to a SQL database using SQLAlchemy. <br>
 *Perform basic SQL queries using engine.execute().
 *Create Python classes and objects.
 *Create, read, update, and delete data from a SQL database using SQLAlchemy's ORM.
